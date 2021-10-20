@@ -1,6 +1,6 @@
 # Employ Manager
 
-> Full CRUD Employ manager with React and CSV File Reader.
+> Full CRUD employ manager with React and CSV File Reader.
 
 The App is live at [mub4shir.github.io/contact-manager-with-filter/#/](https://mub4shir.github.io/contact-manager-with-filter/#/)
 
